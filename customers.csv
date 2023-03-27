@@ -1,0 +1,26 @@
+"id","first_name","last_name","city","referral_customer_id"
+1,"Dana","Lo","San Francisco",NULL
+2,"Mary","Stone","San Jose",NULL
+3,"July","Crone","Mountain View",1
+4,"Tory","Bei","Palo Alto",2
+5,"Clara","S","San Jose",NULL
+6,"Kevin","Taron","San Jose",NULL
+7,"Tressy","LaMer","Sunnyvale",4
+8,"Aeron","Levi","Fremont",NULL
+9,"Anna","Coner","San Francisco",2
+10,"David","Avino","San Jose",NULL
+11,"Julia","Grassel","San Francisco",6
+12,"Gregor","O","San Jose",NULL
+13,"Silvia","Vern","Santa Clara",5
+14,"Sima","Main","San Jose",5
+15,"Carelia","Barn","San Jose",10
+16,"Anthony","Wail","Santa Clara",9
+17,"Anna-Maria","Stein","San Francisco",NULL
+18,"Natan","Fi","San Jose",NULL
+19,"Linda","Parera","San Jose",NULL
+20,"Vera","Solesta","Santa Clara",13
+21,"Cory","Ollyn","San Jose",NULL
+22,"Jenna","Treviado","San Francisco",NULL
+23,"Tata","Cole","San Jose",13
+24,"Valery","Sam","Palo Alto",NULL
+25,"Marie","Ten","San Jose",20
