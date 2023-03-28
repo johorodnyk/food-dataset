@@ -14,7 +14,9 @@ product: contains information about the menu items offered by the business deliv
 The analysis performed on this data model includes the following:
 
 Top-selling items: identify the menu items that are most frequently ordered and generate reports to help optimize menu offerings and promotions.
+
 Sales trends: analyze sales data over time to identify patterns and trends, such as the busiest week of the month.
+
 Customer success: find percentage of returning customers, number of referred customers, sentimental analysis.
 
 ## Getting Started
