@@ -18,13 +18,13 @@ Top-selling items: identify the menu items that are most frequently ordered and 
 Sales trends: analyze sales data over time to identify patterns and trends, such as the busiest week of the month.
 Customer success: find percentage of returning customers, number of referred customers, sentimental analysis.
 
-Getting Started
+## Getting Started
 To get started with this project, you will need to have access to a PostgreSQL database and have the necessary permissions to create tables and run queries. You will also need to have the appropriate data to populate the tables, such as customer information, order data, and menu item information.
 
 To run the analysis, you can use a SQL client or IDE to connect to the database and run the queries included in this project. You may also need to modify the queries to fit your specific data model or analysis goals.
 
-Contributing
+## Contributing
 Contributions to this project are welcome! If you would like to contribute, please fork this repository, make your changes, and submit a pull request. Be sure to include a detailed description of your changes and any relevant testing or documentation updates.
 
-License
+## License
 This project is licensed under the BSD-3 License - see the LICENSE.md file for details.
