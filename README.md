@@ -1,6 +1,5 @@
 # Food Orders and Sales Analysis Project
 
-## Contributions to this project are welcome! If you would like to contribute, please fork this repository, make your changes, and submit a pull request. Be sure to include a detailed description of your changes and any relevant testing or documentation updates.
 This is a project built on PostgreSQL that includes the creation of a data model and analysis of food orders and sales. The goal of this project is to provide insights into the business of food delivery service by analyzing their order and sales data.
 
 ## Data Model
