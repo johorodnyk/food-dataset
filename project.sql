@@ -13,6 +13,15 @@ FROM (
 	GROUP BY order_id
 ) summary_orders
 
+
+-- Orders trend over weeks --
+SELECT date_part('week', created_at) as week,
+	count(*) as orders
+FROM orders
+GROUP BY week
+ORDER BY week ASC
+
+
 -- Select 3 customers with higher tips --
 SELECT first_name, 
 	SUM(tips) as sum_tips
