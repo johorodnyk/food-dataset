@@ -2,6 +2,8 @@
 
 This is a project built on PostgreSQL that includes the creation of a data model and analysis of food orders and sales. The goal of this project is to provide insights into the business of food delivery service by analyzing their order and sales data.
 
+![Screenshot](Food%20sales%20and%20customers%20analysis.png)
+
 ## Data Model
 The data model for this project includes the following tables:
 
