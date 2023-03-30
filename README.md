@@ -15,8 +15,11 @@ This visualization is intended to help users understand the data and analytics r
 The data model for this project includes the following tables:
 
 customers: contains information about the customers who have placed orders, including their name, location anf referrals.
+
 orders: contains information about individual orders placed by customers, including the order date, tips, rating.
+
 order_item: contains information about the items included in each order, including the item name, quantity, and price.
+
 product: contains information about the menu items offered by the business delivery service, including the item name, description, cost and price.
 
 ## Analysis
