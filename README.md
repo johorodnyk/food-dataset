@@ -2,6 +2,13 @@
 
 This is a project built on PostgreSQL that includes the creation of a data model and analysis of food orders and sales. The goal of this project is to provide insights into the business of food delivery service by analyzing their order and sales data.
 
+
+## Data visualization
+
+This project is a data visualization of the data and analytics requests from this repository. The visualization has been uploaded to Tableau and the link is below: https://thedatanalyst.com/food-sales-analysis-tableau/
+
+This visualization is intended to help users understand the data and analytics requests from this repository. It provides a visual overview of the most popular requests, as well as the time frames and types of data that are being requested.
+
 ![Screenshot](Food%20sales%20and%20customers%20analysis.png)
 
 ## Data Model
